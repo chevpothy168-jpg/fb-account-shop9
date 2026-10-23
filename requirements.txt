@@ -1,0 +1,6 @@
+Flask
+qrcode
+Pillow
+requests
+gunicorn
+bakong-khqr
